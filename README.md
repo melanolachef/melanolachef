@@ -1,7 +1,6 @@
 ## Eai! 👋
 
 
-- 🔭 Atualmente trabalhando com Design em Inteligência Artificial
 - 🌱 Estudando Java e ferramentas Front-End!
 - 📫 Converse comigo por email: lnmelare@gmail.com
 - 🎶 Outros tipos de contato por aqui: https://melanolachef.carrd.co/
