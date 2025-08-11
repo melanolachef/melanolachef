@@ -1,9 +1,10 @@
-## Eai! 👋
+## Hey!! 👋
 
 
-- 🌱 Estudando Java e ferramentas Front-End!
-- 📫 Converse comigo por email: lnmelare@gmail.com
-- 🎶 Outros tipos de contato por aqui: https://melanolachef.carrd.co/
+- 🌱 Studying Java and Front-End tools!
+- 💻 Working at Rei dos Motores - Votorantim SP
+- 📫 Reach me by email: lnmelare@gmail.com
+- 🎶 Other ways to contact me here: https://melanolachef.carrd.co/
 - 🤺 yokoso watashi no soul society (bleach time)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melanolachef&show_icons=true&theme=radical)
