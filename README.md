@@ -1,8 +1,8 @@
 ## Hey!! 👋
 
 
-- 🌱 Studying Java and Spring Boot!
-- 💻 Working at Rei dos Motores - Votorantim SP
+- 🌱 Studying Data Analysis and Python!
+- 💻 Working at Rei dos Motores - SP
 - 📫 Reach me by email: lnmelare@gmail.com
 - 🎶 Other ways to contact me here: https://melanolachef.carrd.co/
 - 🤺 yokoso watashi no soul society (bleach time)
