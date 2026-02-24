@@ -7,7 +7,7 @@
 - 🎶 Other ways to contact me here: https://melanolachef.carrd.co/
 - 🤺 yokoso watashi no soul society (bleach time)
 - 📝Let's connect on LinkedIn! https://www.linkedin.com/in/lucasmelare/
-- Check my new Landing Page!! https://portifolio-lucas-melare.vercel.app/
+- 🐬 Check my new portfolio! https://p3-portifolio.vercel.app/
 
 
            
