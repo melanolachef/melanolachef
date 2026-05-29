@@ -33,6 +33,11 @@
 <br/>
 
 <div align="center">
+  <img src="https://github.com/melanolachef/melanolachef/blob/output/github-snake.svg" alt="Snake game" />
+</div>
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melanolachef&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
