@@ -26,9 +26,11 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melanolachef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melanolachef&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=melanolachef&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melanolachef&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
