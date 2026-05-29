@@ -1,26 +1,31 @@
 ## Hey!! 👋
 
-
 - 🌱 Studying Data Analysis and Python!
 - 💻 Working at Arthwind Technologies
 - 📫 Reach me by email: lnmelare@gmail.com
 - 🎶 Other ways to contact me here: https://melanolachef.carrd.co/
-- 📝Let's connect on LinkedIn! https://www.linkedin.com/in/lucasmelare/
+- 📝 Let's connect on LinkedIn! https://www.linkedin.com/in/lucasmelare/
 - 🐬 Check my new portfolio! https://p3-portifolio.vercel.app/
 
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+<br/>
 
-           
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melanolachef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melanolachef&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melanolachef&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=melanolachef&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
 </div>
-          
-</div>
-
-
-
