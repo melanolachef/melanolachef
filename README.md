@@ -27,10 +27,7 @@
 
 
 
-<div align="center">
-  <img src="https://github.com/melanolachef/melanolachef/blob/output/github-snake.svg" alt="Snake game" />
-</div>
-<br/>
+
 
 
 <div align="center">
