@@ -32,9 +32,6 @@
 </div>
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melanolachef&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=melanolachef&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
