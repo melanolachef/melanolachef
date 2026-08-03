@@ -1,6 +1,6 @@
 ## Hey!! 👋
 
-- 🌱 Studying Data Analysis and Python!
+- 🌱 Studying Data Analysis!
 - 💻 Working at Arthwind Technologies
 - 📫 Reach me by email: lnmelare@gmail.com
 - 🎶 Other ways to contact me here: https://melanolachef.carrd.co/
