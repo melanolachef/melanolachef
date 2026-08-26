@@ -1,4 +1,4 @@
-## Hey!! 👋
+## ᴉɐʞǝs ou ɐɯɐsɐʞɐs osoʞo⅄ ﾒ🙃
 
 - 🌱 Studying Data Analysis!
 - 💻 Working at Arthwind Technologies
