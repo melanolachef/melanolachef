@@ -33,5 +33,5 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melanolachef&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/7aa2f7/melanolachef" alt="Contribution Chart" />
 </div>
