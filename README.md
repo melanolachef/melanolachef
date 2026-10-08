@@ -7,7 +7,7 @@
 - 📝 Let's connect on LinkedIn! https://www.linkedin.com/in/lucasmelare/
 - 🐬 Check my new portfolio! https://p3-portifolio.vercel.app/
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ technologies and tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img width="12" />
