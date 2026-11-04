@@ -1,6 +1,6 @@
 ## ᴉɐʞǝs ou ɐɯɐsɐʞɐs osoʞo⅄ ﾒ🙃
 
-- 🌱 Studying Data Analysis!
+- 🌱 Studying Data Analysis and working with full stack development!
 - 💻 Working at Arthwind Technologies
 - 📫 Reach me by email: lnmelare@gmail.com
 - 🎶 Other ways to contact me here: https://melanolachef.carrd.co/
