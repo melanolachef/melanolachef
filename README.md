@@ -27,6 +27,4 @@
 
 <div align="center">
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=melanolachef&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=melanolachef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melanolachef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
