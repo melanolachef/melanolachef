@@ -29,6 +29,8 @@
 
 <div align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=melanolachef&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=melanolachef)](https://github.com/stats-organization/github-stats-extended" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img src="https://vercel.app" height="160" alt="GitHub Stats" />
+</a>
 </div>
 
