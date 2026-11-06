@@ -28,12 +28,10 @@
 
 
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=melanolachef&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-<a href="https://github.com">
-  <img src="https://vercel.app" height="160" alt="GitHub Stats" />
-</a>
-
-
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=melanolachef&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com">
+    <img height="160" src="https://vercel.app" alt="GitHub Stats" />
+  </a>
 </div>
+
 
