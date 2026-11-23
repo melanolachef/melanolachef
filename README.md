@@ -27,3 +27,8 @@
 <div align="center">
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=melanolachef&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
+
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melanolachef&layout=compact&hide_border=true&theme=default)
